@@ -1,4 +1,4 @@
-- 👋 Hi, I’m smfabian2
+- 👋 Hi, I’m @smfabian2
 - 👀 I’m interested in Infrastructure as Code
 - 🌱 I’m currently learning NetDevOps
 - 💞️ I’m looking to collaborate on various learning projects
